@@ -1,0 +1,614 @@
+2024.11.10 22:10:05 INFO  Started: Metals version 1.4.0 in folders 'C:\Users\epobi\Desktop\Predmeti\Fp\lab1' for client Visual Studio Code 1.94.2.
+2024.11.10 22:10:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.10 22:10:06 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:08 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:12 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:12 INFO  running 'C:\Program Files\Java\jdk-22\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\epobi\AppData\Local\Temp\metals14763637219709282620\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.10 22:10:15 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:17 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.5  (this may take some time)...
+2024.11.10 22:10:21 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:21 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:21 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:22 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:22 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:22 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:23 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:23 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:24 WARN  no build target for: C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:10:24 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:24 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:25 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:28 ERROR [info] [launcher] getting Scala 2.12.20 (for sbt)...
+2024.11.10 22:10:31 INFO  [info] welcome to sbt 1.10.5 (Oracle Corporation Java 22)
+2024.11.10 22:10:34 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:34 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:34 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:34 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:35 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:36 INFO  [info] loading settings for project lab1-build-build from metals.sbt ...
+2024.11.10 22:10:37 WARN  no build target for: C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:10:37 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:37 INFO  [info] loading project definition from C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\project
+2024.11.10 22:10:42 INFO  [info] loading settings for project lab1-build from metals.sbt ...
+2024.11.10 22:10:42 INFO  [info] loading project definition from C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project
+2024.11.10 22:10:46 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:47 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:47 WARN  no build target for: C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:10:47 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:46 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:48 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:48 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:49 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:49 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:50 INFO  [success] Generated .bloop\lab1-build.json
+2024.11.10 22:10:50 INFO  [success] Total time: 8 s, completed 10 нояб. 2024 г., 22:10:50
+2024.11.10 22:10:50 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:50 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:51 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:53 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:53 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:55 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:10:55 INFO  [info] loading settings for project lab1 from build.sbt ...
+2024.11.10 22:10:55 INFO  [info] set current project to hello-world (in build file:/C:/Users/epobi/Desktop/Predmeti/Fp/lab1/)
+2024.11.10 22:10:59 INFO  [success] Generated .bloop\lab1.json
+2024.11.10 22:10:59 INFO  [success] Generated .bloop\lab1-test.json
+2024.11.10 22:10:59 INFO  [success] Total time: 3 s, completed 10 нояб. 2024 г., 22:10:59
+2024.11.10 22:10:59 INFO  time: ran 'sbt bloopInstall' in 47s
+2024.11.10 22:10:59 INFO  Attempting to connect to the build server...
+2024.11.10 22:10:59 INFO  Found a Bloop server running
+2024.11.10 22:10:59 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:02 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:02 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:02 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:02 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:03 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:03 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:03 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:03 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:04 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:04 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:05 INFO  Attempting to connect to the build server...
+2024.11.10 22:11:05 INFO  Found a Bloop server running
+2024.11.10 22:11:04 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:04 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.10 22:11:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:07 INFO  Attempting to connect to the build server...
+2024.11.10 22:11:07 INFO  Found a Bloop server running
+2024.11.10 22:11:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:08 INFO  Attempting to connect to the build server...
+2024.11.10 22:11:08 INFO  Found a Bloop server running
+2024.11.10 22:11:08 INFO  time: Connected to build server in 8.88s
+2024.11.10 22:11:08 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:11:08 INFO  time: Imported build in 0.16s
+2024.11.10 22:11:08 INFO  running doctor check
+2024.11.10 22:11:08 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:11:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:08 INFO  time: Connected to build server in 1.68s
+2024.11.10 22:11:08 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:11:09 INFO  time: Imported build in 0.13s
+2024.11.10 22:11:09 INFO  running doctor check
+2024.11.10 22:11:09 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:11:21 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.10 22:11:39 INFO  time: indexed workspace in 30s
+2024.11.10 22:11:39 INFO  time: indexed workspace in 30s
+2024.11.10 22:11:51 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:11:55 INFO  Disconnecting from Bloop session...
+2024.11.10 22:11:55 INFO  Cancelling compilation on Bloop server
+2024.11.10 22:11:55 INFO  Shut down connection with build server.
+2024.11.10 22:11:55 INFO  time: compiled lab1 in 3.31s
+2024.11.10 22:11:55 INFO  Shut down connection with build server.
+2024.11.10 22:11:55 INFO  Attempting to connect to the build server...
+2024.11.10 22:11:55 INFO  Found a Bloop server running
+2024.11.10 22:11:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:56 INFO  Attempting to connect to the build server...
+2024.11.10 22:11:56 INFO  Found a Bloop server running
+2024.11.10 22:11:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:11:56 INFO  time: Connected to build server in 1.7s
+2024.11.10 22:11:56 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:11:56 INFO  time: Imported build in 0.11s
+2024.11.10 22:11:56 INFO  running doctor check
+2024.11.10 22:11:56 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:11:59 INFO  Disconnecting from Bloop session...
+2024.11.10 22:11:59 INFO  Shut down connection with build server.
+2024.11.10 22:11:59 INFO  Shut down connection with build server.
+2024.11.10 22:11:59 INFO  Attempting to connect to the build server...
+2024.11.10 22:12:00 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:12:00 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:11:59 INFO  No running Bloop server found, starting one.
+2024.11.10 22:12:00 INFO  No running Bloop server found, starting one.
+2024.11.10 22:12:00 INFO  No running Bloop server found, starting one.
+2024.11.10 22:12:04 INFO  Starting compilation server
+2024.11.10 22:12:04 INFO  Starting compilation server
+2024.11.10 22:12:04 INFO  Starting compilation server
+2024.11.10 22:12:04 INFO  time: indexed workspace in 7.25s
+2024.11.10 22:12:07 INFO  [0m[31m[E][0m Caught java.net.BindException: Address already in use: bind
+2024.11.10 22:12:07 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:12:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:12:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:12:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:12:09 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:12:09 INFO  time: Imported build in 0.32s
+2024.11.10 22:12:09 INFO  running doctor check
+2024.11.10 22:12:09 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:12:15 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:12:16 INFO  time: indexed workspace in 6.07s
+2024.11.10 22:12:16 INFO  Deduplicating compilation of lab1 from bsp client 'Metals 1.4.0' (since 6.758s)
+2024.11.10 22:12:16 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:12:17 INFO  time: compiled lab1 in 1.68s
+2024.11.10 22:12:29 ERROR Timeout waiting for 'build/initialize' response
+2024.11.10 22:12:29 WARN  Retrying connection to the build server Bloop
+2024.11.10 22:12:29 INFO  Found a Bloop server running
+2024.11.10 22:12:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:12:29 INFO  Attempting to connect to the build server...
+2024.11.10 22:12:29 INFO  Found a Bloop server running
+2024.11.10 22:12:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:12:29 INFO  time: Connected to build server in 30s
+2024.11.10 22:12:29 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:12:30 INFO  time: Imported build in 0.22s
+2024.11.10 22:12:30 INFO  running doctor check
+2024.11.10 22:12:30 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:12:35 INFO  time: indexed workspace in 4.31s
+2024.11.10 22:12:57 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:12:57 INFO  time: compiled lab1 in 0.22s
+2024.11.10 22:13:11 INFO  Disconnecting from Bloop session...
+2024.11.10 22:13:11 INFO  Shut down connection with build server.
+2024.11.10 22:13:11 INFO  Shut down connection with build server.
+2024.11.10 22:13:11 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.10 22:13:11 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.10 22:13:11 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:13:11 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:13:11 INFO  No running Bloop server found, starting one.
+2024.11.10 22:13:11 INFO  No running Bloop server found, starting one.
+2024.11.10 22:13:12 INFO  Attempting to connect to the build server...
+2024.11.10 22:13:12 INFO  No running Bloop server found, starting one.
+2024.11.10 22:13:14 INFO  Starting compilation server
+2024.11.10 22:13:14 INFO  Starting compilation server
+2024.11.10 22:13:14 INFO  Starting compilation server
+2024.11.10 22:13:18 INFO  [0m[31m[E][0m Caught java.net.BindException: Address already in use: bind
+2024.11.10 22:13:18 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.10 22:13:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:19 INFO  Attempting to connect to the build server...
+2024.11.10 22:13:19 INFO  Found a Bloop server running
+2024.11.10 22:13:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:20 INFO  time: Connected to build server in 8.85s
+2024.11.10 22:13:20 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:13:21 INFO  time: Imported build in 0.23s
+2024.11.10 22:13:21 INFO  running doctor check
+2024.11.10 22:13:21 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:13:25 INFO  time: indexed workspace in 4.2s
+2024.11.10 22:13:39 ERROR Timeout waiting for 'build/initialize' response
+2024.11.10 22:13:46 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:13:48 INFO  time: compiled lab1 in 1.93s
+2024.11.10 22:13:57 INFO  Disconnecting from Bloop session...
+2024.11.10 22:13:57 INFO  Shut down connection with build server.
+2024.11.10 22:13:57 INFO  Shut down connection with build server.
+2024.11.10 22:13:57 INFO  Attempting to connect to the build server...
+2024.11.10 22:13:57 INFO  Found a Bloop server running
+2024.11.10 22:13:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:57 INFO  Attempting to connect to the build server...
+2024.11.10 22:13:57 INFO  Found a Bloop server running
+2024.11.10 22:13:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:13:57 INFO  time: Connected to build server in 1.37s
+2024.11.10 22:13:57 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:13:58 INFO  running doctor check
+2024.11.10 22:13:58 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:14:02 INFO  time: indexed workspace in 3.33s
+2024.11.10 22:14:02 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:02 INFO  time: compiled lab1 in 0.15s
+нояб. 10, 2024 10:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2024.11.10 22:14:05 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:05 INFO  time: compiled lab1 in 0.16s
+2024.11.10 22:14:14 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:14 INFO  time: compiled lab1 in 0.14s
+2024.11.10 22:14:16 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:16 INFO  time: compiled lab1 in 0.25s
+2024.11.10 22:14:19 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:19 INFO  time: compiled lab1 in 0.15s
+2024.11.10 22:14:21 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:21 INFO  time: compiled lab1 in 0.12s
+2024.11.10 22:14:22 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:22 INFO  time: compiled lab1 in 0.14s
+2024.11.10 22:14:34 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:34 INFO  time: compiled lab1 in 0.12s
+2024.11.10 22:14:36 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:36 INFO  time: compiled lab1 in 0.1s
+2024.11.10 22:14:37 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:37 INFO  time: compiled lab1 in 0.37s
+2024.11.10 22:14:52 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:14:52 INFO  time: compiled lab1 in 0.25s
+2024.11.10 22:15:54 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:15:54 INFO  time: compiled lab1 in 0.22s
+2024.11.10 22:15:56 INFO  Disconnecting from Bloop session...
+2024.11.10 22:15:56 INFO  Shut down connection with build server.
+2024.11.10 22:15:56 INFO  Shut down connection with build server.
+2024.11.10 22:15:56 INFO  Attempting to connect to the build server...
+2024.11.10 22:15:56 INFO  Found a Bloop server running
+2024.11.10 22:15:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:15:56 INFO  Attempting to connect to the build server...
+2024.11.10 22:15:56 INFO  Found a Bloop server running
+2024.11.10 22:15:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:15:57 INFO  time: Connected to build server in 1.76s
+2024.11.10 22:15:57 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:15:59 INFO  time: Imported build in 0.31s
+2024.11.10 22:15:59 INFO  running doctor check
+2024.11.10 22:15:59 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:16:03 INFO  time: indexed workspace in 4.04s
+2024.11.10 22:16:03 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:16:03 INFO  time: compiled lab1 in 0.18s
+2024.11.10 22:16:12 INFO  time: code lens generation in 1.25s
+2024.11.10 22:16:12 INFO  time: code lens generation in 4.28s
+2024.11.10 22:16:18 INFO  running 'C:\Program Files\Java\jdk-22\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\epobi\AppData\Local\Temp\metals2570177289748074997\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.10 22:16:20 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:16:20 INFO  time: compiled lab1 in 0.44s
+2024.11.10 22:16:37 INFO  [info] welcome to sbt 1.10.5 (Oracle Corporation Java 22)
+2024.11.10 22:16:37 INFO  [info] loading settings for project lab1-build-build from metals.sbt ...
+2024.11.10 22:16:40 INFO  [info] loading project definition from C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\project
+2024.11.10 22:16:42 INFO  [info] loading settings for project lab1-build from metals.sbt ...
+2024.11.10 22:16:42 INFO  [info] loading project definition from C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project
+2024.11.10 22:16:48 INFO  [success] Generated .bloop\lab1-build.json
+2024.11.10 22:16:48 INFO  [success] Total time: 6 s, completed 10 нояб. 2024 г., 22:16:48
+2024.11.10 22:16:53 INFO  [info] loading settings for project lab1 from build.sbt ...
+2024.11.10 22:16:53 INFO  [info] set current project to hello-world (in build file:/C:/Users/epobi/Desktop/Predmeti/Fp/lab1/)
+2024.11.10 22:16:56 INFO  [success] Generated .bloop\lab1.json
+2024.11.10 22:16:56 INFO  [success] Generated .bloop\lab1-test.json
+2024.11.10 22:16:56 INFO  [success] Total time: 3 s, completed 10 нояб. 2024 г., 22:16:56
+2024.11.10 22:16:56 INFO  time: ran 'sbt bloopInstall' in 38s
+2024.11.10 22:16:56 INFO  Disconnecting from Bloop session...
+2024.11.10 22:16:56 INFO  Shut down connection with build server.
+2024.11.10 22:16:56 INFO  Shut down connection with build server.
+2024.11.10 22:16:56 INFO  Attempting to connect to the build server...
+2024.11.10 22:16:56 INFO  Found a Bloop server running
+2024.11.10 22:16:57 WARN  no build target for: C:\Users\epobi\Desktop\Predmeti\Fp\lab1\build.sbt
+2024.11.10 22:16:57 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\build.sbt. Using presentation compiler with project's scala-library version: 2.13.12
+2024.11.10 22:16:57 INFO  skipping build import with status 'Installed'
+2024.11.10 22:16:56 INFO  Attempting to connect to the build server...
+2024.11.10 22:16:56 INFO  Found a Bloop server running
+2024.11.10 22:16:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:16:58 INFO  Attempting to connect to the build server...
+2024.11.10 22:16:58 INFO  Found a Bloop server running
+2024.11.10 22:16:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:16:58 INFO  Attempting to connect to the build server...
+2024.11.10 22:16:58 INFO  Found a Bloop server running
+2024.11.10 22:16:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:16:58 INFO  time: Connected to build server in 2.2s
+2024.11.10 22:16:58 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:16:58 INFO  time: Imported build in 0.11s
+2024.11.10 22:16:58 INFO  running doctor check
+2024.11.10 22:16:58 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:16:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.10 22:16:59 INFO  time: Connected to build server in 2.31s
+2024.11.10 22:16:59 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.10 22:16:59 INFO  time: Imported build in 0.15s
+2024.11.10 22:16:59 INFO  running doctor check
+2024.11.10 22:16:59 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.10 22:17:02 INFO  time: code lens generation in 2.19s
+2024.11.10 22:17:03 INFO  compiling lab1 (1 scala source)
+нояб. 10, 2024 10:17:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475
+2024.11.10 22:17:05 INFO  time: compiled lab1 in 1.51s
+2024.11.10 22:17:07 INFO  time: indexed workspace in 8.1s
+2024.11.10 22:17:08 INFO  time: indexed workspace in 8.16s
+2024.11.10 22:20:41 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:20:41 INFO  time: compiled lab1 in 0.65s
+2024.11.10 22:20:54 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:20:54 INFO  time: compiled lab1 in 0.89s
+2024.11.10 22:20:56 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:20:57 INFO  time: compiled lab1 in 1.09s
+2024.11.10 22:20:57 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:20:58 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:20:57 INFO  time: compiled lab1 in 0.51s
+2024.11.10 22:20:58 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:20:58 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:20:58 INFO  time: compiled lab1 in 0.73s
+2024.11.10 22:21:06 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:21:06 INFO  time: compiled lab1 in 0.65s
+2024.11.10 22:21:10 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:21:10 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:21:14 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:21:14 INFO  time: compiled lab1 in 0.54s
+2024.11.10 22:21:20 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:21:20 INFO  time: compiled lab1 in 0.52s
+2024.11.10 22:24:53 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:24:53 INFO  time: compiled lab1 in 0.52s
+2024.11.10 22:24:55 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:24:55 INFO  time: compiled lab1 in 0.21s
+2024.11.10 22:24:57 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:24:57 INFO  time: compiled lab1 in 0.54s
+2024.11.10 22:24:59 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:24:59 INFO  time: compiled lab1 in 0.44s
+2024.11.10 22:25:03 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:03 INFO  time: compiled lab1 in 0.44s
+2024.11.10 22:25:04 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:04 INFO  time: compiled lab1 in 0.42s
+2024.11.10 22:25:09 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:09 INFO  time: compiled lab1 in 0.38s
+2024.11.10 22:25:15 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:15 INFO  time: compiled lab1 in 0.4s
+2024.11.10 22:25:18 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:18 INFO  time: compiled lab1 in 0.54s
+2024.11.10 22:25:22 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:22 INFO  time: compiled lab1 in 0.34s
+2024.11.10 22:25:24 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:24 INFO  time: compiled lab1 in 0.36s
+2024.11.10 22:25:25 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:25 INFO  time: compiled lab1 in 0.53s
+2024.11.10 22:25:48 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:48 INFO  time: compiled lab1 in 0.46s
+2024.11.10 22:25:50 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:50 INFO  time: compiled lab1 in 0.38s
+2024.11.10 22:25:54 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:54 INFO  time: compiled lab1 in 0.37s
+2024.11.10 22:25:57 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:25:57 INFO  time: compiled lab1 in 0.34s
+2024.11.10 22:26:01 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:26:01 INFO  time: compiled lab1 in 0.4s
+2024.11.10 22:26:19 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:26:19 INFO  time: compiled lab1 in 0.82s
+2024.11.10 22:26:29 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:26:29 INFO  time: compiled lab1 in 0.77s
+2024.11.10 22:26:32 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:26:32 INFO  time: compiled lab1 in 0.95s
+2024.11.10 22:26:33 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:26:33 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:26:33 INFO  time: compiled lab1 in 0.69s
+2024.11.10 22:27:11 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:27:11 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:27:16 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:27:16 INFO  time: compiled lab1 in 0.5s
+2024.11.10 22:27:19 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:27:19 INFO  time: compiled lab1 in 0.87s
+2024.11.10 22:27:54 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:27:54 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:27:55 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:27:55 INFO  time: compiled lab1 in 0.74s
+2024.11.10 22:28:04 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:28:04 INFO  time: compiled lab1 in 0.52s
+2024.11.10 22:28:07 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:28:07 INFO  time: compiled lab1 in 0.6s
+2024.11.10 22:29:16 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:29:16 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:29:21 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:29:21 INFO  time: compiled lab1 in 0.49s
+2024.11.10 22:29:45 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:29:45 INFO  time: compiled lab1 in 0.24s
+2024.11.10 22:30:29 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:29 INFO  time: compiled lab1 in 0.54s
+2024.11.10 22:30:32 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:32 INFO  time: compiled lab1 in 0.56s
+2024.11.10 22:30:33 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:33 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:30:33 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:30:34 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:34 INFO  time: compiled lab1 in 0.72s
+2024.11.10 22:30:38 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:38 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:30:40 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:30:40 INFO  time: compiled lab1 in 0.45s
+нояб. 10, 2024 10:31:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1422
+2024.11.10 22:31:38 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:38 INFO  time: compiled lab1 in 0.49s
+2024.11.10 22:31:39 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:39 INFO  time: compiled lab1 in 0.46s
+2024.11.10 22:31:45 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:45 INFO  time: compiled lab1 in 0.4s
+2024.11.10 22:31:51 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:51 INFO  time: compiled lab1 in 0.49s
+2024.11.10 22:31:52 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:52 INFO  time: compiled lab1 in 0.45s
+2024.11.10 22:31:55 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:55 INFO  time: compiled lab1 in 0.58s
+2024.11.10 22:31:59 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:31:59 INFO  time: compiled lab1 in 0.65s
+2024.11.10 22:32:00 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:00 INFO  time: compiled lab1 in 0.47s
+2024.11.10 22:32:03 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:03 INFO  time: compiled lab1 in 0.55s
+2024.11.10 22:32:06 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:06 INFO  time: compiled lab1 in 0.38s
+2024.11.10 22:32:16 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:16 INFO  time: compiled lab1 in 0.42s
+2024.11.10 22:32:19 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:19 INFO  time: compiled lab1 in 0.52s
+2024.11.10 22:32:23 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:23 INFO  time: compiled lab1 in 0.41s
+2024.11.10 22:32:25 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:25 INFO  time: compiled lab1 in 0.36s
+2024.11.10 22:32:37 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:37 INFO  time: compiled lab1 in 0.55s
+2024.11.10 22:32:41 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:41 INFO  time: compiled lab1 in 0.36s
+2024.11.10 22:32:42 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:42 INFO  time: compiled lab1 in 0.43s
+2024.11.10 22:32:47 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:47 INFO  time: compiled lab1 in 0.43s
+2024.11.10 22:32:57 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:32:57 INFO  time: compiled lab1 in 0.49s
+2024.11.10 22:32:59 INFO  compiling lab1 (1 scala source)
+нояб. 10, 2024 10:33:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1748
+2024.11.10 22:33:00 INFO  time: compiled lab1 in 1.17s
+нояб. 10, 2024 10:33:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1749
+2024.11.10 22:33:00 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:33:01 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:33:01 INFO  time: compiled lab1 in 0.75s
+2024.11.10 22:33:06 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:33:06 INFO  time: compiled lab1 in 0.48s
+2024.11.10 22:33:12 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:33:12 INFO  time: compiled lab1 in 0.42s
+2024.11.10 22:33:55 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:33:55 INFO  time: compiled lab1 in 0.64s
+2024.11.10 22:34:01 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:01 INFO  time: compiled lab1 in 0.36s
+2024.11.10 22:34:03 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:03 INFO  time: compiled lab1 in 0.4s
+2024.11.10 22:34:06 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:06 INFO  time: compiled lab1 in 0.46s
+2024.11.10 22:34:12 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:12 INFO  time: compiled lab1 in 0.41s
+2024.11.10 22:34:14 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:14 INFO  time: compiled lab1 in 0.51s
+2024.11.10 22:34:33 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:33 INFO  time: compiled lab1 in 0.62s
+2024.11.10 22:34:47 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:47 INFO  time: compiled lab1 in 0.49s
+2024.11.10 22:34:49 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:49 INFO  time: compiled lab1 in 0.56s
+2024.11.10 22:34:50 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:51 WARN  Could not load snapshot text for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala
+2024.11.10 22:34:50 INFO  time: compiled lab1 in 0.56s
+2024.11.10 22:34:52 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:34:52 INFO  time: compiled lab1 in 0.45s
+2024.11.10 22:35:45 INFO  compiling lab1 (1 scala source)
+2024.11.10 22:35:45 INFO  time: compiled lab1 in 0.51s
+2024.11.10 22:39:05 INFO  Shutting down server
+2024.11.10 22:39:05 INFO  shutting down Metals
+2024.11.10 22:39:05 INFO  Shut down connection with build server.
+2024.11.10 22:39:05 INFO  Shut down connection with build server.
+2024.11.10 22:39:05 INFO  Exiting server
+2024.11.11 23:38:36 INFO  Started: Metals version 1.4.0 in folders 'C:\Users\epobi\Desktop\Predmeti\Fp\lab1' for client Visual Studio Code 1.95.2.
+2024.11.11 23:38:37 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:38:37 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:40 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:40 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:40 INFO  Attempting to connect to the build server...
+2024.11.11 23:38:40 INFO  Found a Bloop server running
+2024.11.11 23:38:41 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:41 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:41 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:38:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:38:43 INFO  Attempting to connect to the build server...
+2024.11.11 23:38:43 INFO  Found a Bloop server running
+2024.11.11 23:38:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:38:45 INFO  time: Connected to build server in 4.55s
+2024.11.11 23:38:45 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.11 23:38:45 INFO  time: Imported build in 0.66s
+2024.11.11 23:38:45 INFO  running doctor check
+2024.11.11 23:38:45 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.11 23:38:52 INFO  Disconnecting from Bloop session...
+2024.11.11 23:38:52 INFO  Shut down connection with build server.
+2024.11.11 23:38:52 INFO  Shut down connection with build server.
+2024.11.11 23:38:53 INFO  Attempting to connect to the build server...
+2024.11.11 23:38:53 INFO  No running Bloop server found, starting one.
+2024.11.11 23:38:55 INFO  Starting compilation server
+2024.11.11 23:38:56 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+нояб. 11, 2024 11:38:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\.reports\metals-full\2024-11-11\r_compiler-error_(lab1)_23-38-58-732.md
+2024.11.11 23:39:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:39:01 INFO  Attempting to connect to the build server...
+2024.11.11 23:39:01 INFO  Found a Bloop server running
+2024.11.11 23:39:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:39:02 INFO  time: Connected to build server in 9.03s
+2024.11.11 23:39:02 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.11 23:39:02 INFO  time: Imported build in 0.26s
+2024.11.11 23:39:02 INFO  running doctor check
+2024.11.11 23:39:02 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.11 23:39:21 INFO  time: indexed workspace in 18s
+2024.11.11 23:39:21 INFO  time: indexed workspace in 35s
+2024.11.11 23:39:39 INFO  time: code lens generation in 1.42s
+нояб. 11, 2024 11:42:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.11 23:47:38 INFO  Shutting down server
+2024.11.11 23:47:38 INFO  shutting down Metals
+2024.11.11 23:47:38 INFO  Shut down connection with build server.
+2024.11.11 23:47:38 INFO  Shut down connection with build server.
+2024.11.11 23:47:38 INFO  Exiting server
+2024.11.11 23:47:57 INFO  Started: Metals version 1.4.0 in folders 'C:\Users\epobi\Desktop\Predmeti\Fp\lab1' for client Visual Studio Code 1.95.2.
+2024.11.11 23:47:59 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:47:59 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:48:01 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:48:01 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:48:01 INFO  Attempting to connect to the build server...
+2024.11.11 23:48:01 INFO  Found a Bloop server running
+2024.11.11 23:48:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:48:03 INFO  Attempting to connect to the build server...
+2024.11.11 23:48:03 INFO  Found a Bloop server running
+2024.11.11 23:48:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:48:04 INFO  time: Connected to build server in 2.53s
+2024.11.11 23:48:04 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.11 23:48:04 INFO  time: Imported build in 0.26s
+2024.11.11 23:48:04 INFO  running doctor check
+2024.11.11 23:48:04 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.11 23:48:10 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:48:12 INFO  time: indexed workspace in 7.74s
+нояб. 11, 2024 11:48:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.11 23:48:24 INFO  Shutting down server
+2024.11.11 23:48:24 INFO  shutting down Metals
+2024.11.11 23:48:24 INFO  Shut down connection with build server.
+2024.11.11 23:48:24 INFO  Shut down connection with build server.
+2024.11.11 23:48:24 INFO  Exiting server
+2024.11.11 23:48:59 INFO  Started: Metals version 1.4.0+34-caf518ed-SNAPSHOT in folders 'C:\Users\epobi\Desktop\Predmeti\Fp\lab1' for client Visual Studio Code 1.95.2.
+2024.11.11 23:49:00 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:49:00 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:49:02 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:49:02 INFO  Attempting to connect to the build server...
+2024.11.11 23:49:02 INFO  Found a Bloop server running
+2024.11.11 23:49:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:49:04 INFO  Attempting to connect to the build server...
+2024.11.11 23:49:04 INFO  Found a Bloop server running
+2024.11.11 23:49:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:49:05 INFO  time: Connected to build server in 2.53s
+2024.11.11 23:49:05 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.11 23:49:05 INFO  time: Imported build in 0.22s
+2024.11.11 23:49:05 INFO  running doctor check
+2024.11.11 23:49:05 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.11 23:49:19 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:49:22 INFO  time: indexed workspace in 17s
+нояб. 11, 2024 11:51:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.11 23:51:41 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:51:41 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:41 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:42 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:42 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:45 INFO  time: code lens generation in 2.61s
+2024.11.11 23:51:46 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:46 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:51:46 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\Primer\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:52:27 INFO  Shutting down server
+2024.11.11 23:52:27 INFO  shutting down Metals
+2024.11.11 23:52:27 INFO  Shut down connection with build server.
+2024.11.11 23:52:27 INFO  Shut down connection with build server.
+2024.11.11 23:52:27 INFO  Exiting server
+2024.11.11 23:52:38 INFO  Started: Metals version 1.4.0+34-caf518ed-SNAPSHOT in folders 'C:\Users\epobi\Desktop\Predmeti\Fp\lab1' for client Visual Studio Code 1.95.2.
+2024.11.11 23:52:40 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:52:40 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:52:42 INFO  no build target found for C:\Users\epobi\Desktop\Predmeti\Fp\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 23:52:42 INFO  Attempting to connect to the build server...
+2024.11.11 23:52:42 INFO  Found a Bloop server running
+2024.11.11 23:52:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:52:43 INFO  Attempting to connect to the build server...
+2024.11.11 23:52:43 INFO  Found a Bloop server running
+2024.11.11 23:52:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\epobi\Desktop\Predmeti\Fp\lab1\project\.metals\bsp.trace.json or C:\Users\epobi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 23:52:43 INFO  time: Connected to build server in 2.35s
+2024.11.11 23:52:43 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.11 23:52:45 INFO  time: Imported build in 0.28s
+2024.11.11 23:52:45 INFO  running doctor check
+2024.11.11 23:52:45 INFO  java targets: lab1, lab1-build, lab1-test
+2024.11.11 23:52:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 23:52:57 INFO  time: indexed workspace in 12s
+нояб. 11, 2024 11:54:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.12 00:02:21 INFO  Shutting down server
+2024.11.12 00:02:21 INFO  shutting down Metals
+2024.11.12 00:02:21 INFO  Shut down connection with build server.
+2024.11.12 00:02:22 INFO  Shut down connection with build server.
+2024.11.12 00:02:21 INFO  Exiting server
